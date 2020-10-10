@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/gradient-geometric-shape-background_78532-374.jpg?size=626&ext=jpg");
+    background-color: #cccccc;
+   }
+
+head {
+    color: white;
+  }
+
+p {
+    color: white;
+  }
+  .banner {
+    color:white !important;
+  }
+nav {
+    background-color:rgb(101,23,204) !important;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color:rgb(101,23,204) !important;
+    color:white !important;
+}
