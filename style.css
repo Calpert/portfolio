@@ -2,6 +2,7 @@ body {
     background-image: url("https://cutewallpaper.org/21/blue-purple-wallpaper/3d-Abstract-Wallpapers-Background,-Awesome-Wallpapers-Tech-.jpg");
     background-color: #cccccc;
     font-family: sans-serif;
+    font-size: x-large;
 
    }
 
@@ -12,14 +13,21 @@ head {
 
 p {
     color: white;
-    font-size: large;
+    font-size: x-large;
   }
-  .banner {
+
+.banner {
     color:white !important;
   }
+
 nav {
     background-color:rgb(101,23,204) !important;
 }
+
+.nav-item {
+  font-size: x-large;
+}
+
 footer {
     position: absolute;
     bottom: 0;
@@ -31,6 +39,11 @@ footer {
 font-size: 20px;
 
 }
+
+.navbar-brand {
+  font-size: x-large;
+}
+
 .personal-info p {
   margin:0;
 }
