@@ -31,7 +31,7 @@ nav {
 footer {
     position: absolute;
     bottom: 0;
-    background-color:rgb(101,23,204) !important;
+    background-color:#0c5383 !important;
     color:white !important;
 }
 
@@ -70,7 +70,7 @@ font-size: 20px;
   color: white;
   font-size: x-large;
   margin: 10px;
-  background-color: rgb(101,23,204) !important;
+  background-color:#0c5383 !important;
   justify-content: center;
 }
 
