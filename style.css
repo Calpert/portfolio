@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://images.hdqwalls.com/download/colorful-galaxy-planets-4k-ih-2560x1700.jpg");
+    background-image: url("https://as2.ftcdn.net/v2/jpg/03/67/77/59/1000_F_367775957_UMmb63PtKFsFUG0E6ikyKSIsVVA5GW2b.jpg");
     background-color: #cccccc;
     font-family: sans-serif;
     font-size: x-large;
@@ -13,7 +13,7 @@ head {
 
 p {
     color: white;
-    font-size: x-large;
+    font-size:xx-large;
   }
 
 .banner {
@@ -21,7 +21,7 @@ p {
   }
 
 nav {
-    background-color:rgb(101,23,204) !important;
+    background-color:#0c5383 !important;
 }
 
 .nav-item {
