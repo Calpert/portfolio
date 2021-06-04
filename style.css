@@ -1,9 +1,8 @@
 body {
-    background-image: url("https://as2.ftcdn.net/v2/jpg/03/67/77/59/1000_F_367775957_UMmb63PtKFsFUG0E6ikyKSIsVVA5GW2b.jpg");
+    background-image: url("https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80");
     background-color: #cccccc;
     font-family:unset;
     font-size: x-large;
-
    }
 
 head {
@@ -13,25 +12,26 @@ head {
 
 p {
     color: white;
-    font-size:xx-large;
+    font-size: xx-large;
   }
 
 .banner {
     color:white !important;
+    font-size:xx-large !important;
   }
 
 nav {
-    background-color:#0c5383 !important;
+    background-color:#008c9e !important;
 }
 
 .nav-item {
-  font-size: x-large;
+  font-size: xx-large;
 }
 
 footer {
     position: absolute;
     bottom: 0;
-    background-color:#0c5383 !important;
+    background-color:#008c9e !important;
     color:white !important;
 }
 
@@ -44,8 +44,12 @@ font-size: 20px;
   font-size: x-large;
 }
 
+.navbar-nav {
+  text-align:right !important;
+}
+
 .personal-info p {
-  margin:0;
+  margin: 10px;
 }
 
 .profile-link a {
@@ -70,7 +74,7 @@ font-size: 20px;
   color: white;
   font-size: x-large;
   margin: 10px;
-  background-color:#0c5383 !important;
+  background-color: #008c9e !important;
   justify-content: center;
 }
 
